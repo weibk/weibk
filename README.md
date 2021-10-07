@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size: 22px;">
+<p align="center" style="font-size: 22px;font-weight: 700;">
     欢迎来到<span style="color: coral;">weibk</span>的GitHub主页
 </p>
 
