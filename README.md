@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weibk)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>vercel.com/weibk/
+<details>
 
 <summary>我的常用仓库</summary>
 <a href="https://github.com/weibk/blog" target="_blank">
